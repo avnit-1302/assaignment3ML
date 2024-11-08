@@ -4,10 +4,9 @@ This project involves building a neural network-based model using the TensorFlow
 
 ## Project Structure
 
-- **`fashion_mnist_classification.ipynb`** - Jupyter notebook with the main code for loading data, building, training, and evaluating the model.
+- **`main.ipynb`** - Jupyter notebook with the main code for loading data, building, training, and evaluating the model.
 - **`README.md`** - Overview of the project and instructions for usage.
-- **`collaboration_report.md`** - Describes how the collaboration was organized and contributions of each group member.
-- **`answers_document.md`** - Provides detailed answers to assignment questions on training metrics and hyperparameter selection.
+
 
 ## Requirements
 
