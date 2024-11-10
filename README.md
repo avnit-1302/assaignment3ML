@@ -11,13 +11,9 @@ This project involves building a neural network-based model using the TensorFlow
 ## Requirements
 
 To run this project, you need:
-- Python 3.6 or later
+- Python 
 - TensorFlow
 - Matplotlib
 
-You can install the necessary packages with:
-
-```bash
-pip install tensorflow matplotlib
 
 
